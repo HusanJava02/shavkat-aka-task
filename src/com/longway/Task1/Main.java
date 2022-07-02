@@ -1,4 +1,4 @@
-package com.longway;
+package com.longway.Task1;
 
 import org.omg.CORBA.PUBLIC_MEMBER;
 
